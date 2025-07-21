@@ -1,6 +1,6 @@
 # Make an explicit list of all header files in `SPH_INCLUDE`.
 set(SPH_INCLUDE
-    tmp.h # Add other header files here
+    common.h # Add other header files here
 )
 
 # Form the full path to the header files by prepending the current directory.
